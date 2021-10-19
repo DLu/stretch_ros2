@@ -248,7 +248,7 @@ The ROS World tutorial will include several guided explorations, which we descri
   ros2 launch stretch_ignition ignition.launch.py
   ```
   ```bash
-  # Terminal 1
+  # Terminal 2
   ./start_docker.sh stretch_roscon
   ros2 launch stretch_moveit_config demo.launch.py
   ```
